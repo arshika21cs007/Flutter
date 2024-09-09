@@ -1,6 +1,10 @@
 # Flutter Development Journey
 
 **Learning Flutter and Building Apps**
+<p align="center">
+  <img src="Flutter.png" style="width: 40%; height: 50%;" alt="Centered Image">
+</p>
+
 
 
 ## Overview
